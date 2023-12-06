@@ -1,0 +1,494 @@
+may 03, 2022 1:25:23 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Actualizar vendedor, Vendedor actualizado Usuario: Tyler Cedula: 21p, 2022-05-03
+may 03, 2022 1:25:36 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Actualizar vendedor, Vendedor actualizado Usuario: Tyler Cedula: 21p, 2022-05-03
+may. 05, 2022 4:30:45 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Pepito Cedula: 999, 2022-05-05
+may. 06, 2022 11:39:26 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-05-06
+may. 06, 2022 11:40:05 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Joshua Cedula: 1233, 2022-05-06
+may. 06, 2022 2:14:23 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-05-06
+may. 06, 2022 7:34:46 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-05-06
+may. 06, 2022 7:35:11 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Didier Cedula: 12345678, 2022-05-06
+may. 06, 2022 8:47:02 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-06
+may. 06, 2022 8:53:41 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-06
+may. 06, 2022 10:13:42 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-06
+may. 06, 2022 10:16:56 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-06
+may. 06, 2022 10:19:18 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-06
+may. 09, 2022 9:30:21 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 9:34:25 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 9:39:22 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 9:54:43 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 9:56:50 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:00:39 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:05:10 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:07:05 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:09:46 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:13:01 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:16:03 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:17:19 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:19:07 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:22:09 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:30:29 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 10:31:51 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:01:20 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:02:19 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:04:08 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:07:02 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:23:44 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:25:18 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:29:53 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:34:09 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:45:34 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:47:23 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:56:01 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 11:58:46 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:00:16 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:10:45 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:20:37 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:27:20 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:29:36 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:32:52 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:45:48 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:48:27 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 12:51:09 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:03:19 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:07:35 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:13:02 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:16:13 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:18:10 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:21:06 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:25:10 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:32:46 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:34:03 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:39:09 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:40:56 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:42:34 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:55:20 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:06:05 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:09:28 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:12:31 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:16:04 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:26:00 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:28:13 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:30:31 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:34:34 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:43:36 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:52:11 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 4:15:04 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 4:27:18 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 4:29:25 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 4:31:34 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 4:33:05 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 4:35:37 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 4:39:34 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 4:42:21 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 10, 2022 4:25:11 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may 10, 2022 5:11:49 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 8:23:12 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 8:25:12 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 8:36:34 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 8:39:28 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 8:45:07 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 8:47:31 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 8:52:43 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 8:56:56 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 9:06:00 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 9:08:23 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 9:38:43 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-10
+may. 10, 2022 9:47:11 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Didier Cedula: 1519, 2022-05-10
+may 11, 2022 12:42:20 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 12:45:15 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 12:50:59 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 12:54:41 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 12:57:18 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 12:59:42 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:02:14 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:05:46 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:08:56 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:12:14 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:15:16 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:18:23 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:19:45 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Didier Cedula: 1519, 2022-05-11
+may 11, 2022 1:20:39 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Christian Cedula: 1529, 2022-05-11
+may 11, 2022 1:23:12 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:25:36 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:27:01 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:29:31 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:31:39 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 12, 2022 12:25:44 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-05-12
+may 19, 2022 3:20:07 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:20:07 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:25:13 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:25:27 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:25:35 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:26:06 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:26:24 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:27:02 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:27:06 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:27:13 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:27:35 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Christian Cedula: 1529, 2022-05-19
+may 19, 2022 3:27:39 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Christian Cedula: 1529, 2022-05-19
+may 19, 2022 3:29:24 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:29:26 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:29:27 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:29:44 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:29:45 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:29:46 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:29:46 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:30:40 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:30:45 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:30:55 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:31:33 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:31:39 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:32:08 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Christian Cedula: 1529, 2022-05-19
+may 19, 2022 3:32:57 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:32:58 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:37:40 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:38:15 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:38:19 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:38:52 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:41:02 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:41:10 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:41:15 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:41:28 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:41:32 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-05-19
+may 19, 2022 3:41:49 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:43:00 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:43:09 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-05-19
+may 19, 2022 3:43:43 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Eliminar me gusta, Me gusta eliminado Usuario: Didier Cedula: 1519, 2022-05-19
+jun 04, 2022 2:37:27 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, -06-04
+jun. 04, 2022 2:29:26 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun. 04, 2022 2:29:38 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, -06-04
+jun. 04, 2022 2:29:38 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Eliminar me gusta, Me gusta eliminado Usuario: Didier Cedula: 1519, -06-04
+jun. 04, 2022 2:39:18 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Didier Cedula: 1519, -06-04
+jun. 04, 2022 2:43:59 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun. 04, 2022 2:54:58 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun. 04, 2022 3:30:26 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun. 04, 2022 5:59:02 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun. 04, 2022 6:02:50 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 6:16:15 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 7:43:10 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 7:51:38 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 7:51:49 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 7:52:40 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 7:53:52 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 7:53:54 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 8:29:16 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 8:29:19 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 8:31:06 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 10:05:06 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 10:05:09 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 10:33:39 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 10:33:43 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, -06-04
+jun 04, 2022 11:16:01 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 11:16:04 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 11:19:01 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 11:19:03 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 11:48:26 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 11:48:28 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 11:48:45 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, -06-04
+jun 04, 2022 11:50:44 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-04
+jun 05, 2022 12:03:12 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun 05, 2022 12:03:14 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun 05, 2022 12:03:45 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-06-05
+jun 05, 2022 12:14:09 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Eliminar vendedor, Vendedor eliminado Usuario: Tyler Cedula: 21p, 2022-06-05
+jun 05, 2022 12:15:11 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-06-05
+jun 05, 2022 12:15:33 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Christian Cedula: 1529, 2022-06-05
+jun 05, 2022 12:15:39 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Christian Cedula: 1529, 2022-06-05
+jun 05, 2022 12:15:43 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Christian Cedula: 1529, 2022-06-05
+jun. 05, 2022 8:23:07 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun. 05, 2022 4:06:58 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun. 05, 2022 4:07:28 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-06-05
+jun 05, 2022 5:47:18 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Eliminar vendedor, Vendedor eliminado Usuario: Tyler Cedula: 21p, 2022-06-05
+jun 05, 2022 5:49:36 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-05
+jun 05, 2022 5:51:17 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun 05, 2022 5:51:20 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun 05, 2022 6:25:45 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun 05, 2022 6:25:51 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun. 05, 2022 7:09:48 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-05
+jun. 05, 2022 7:10:39 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-05
+jun. 05, 2022 7:11:28 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Actualizar vendedor, Vendedor actualizado Usuario: Tyler Cedula: 21p, 2022-06-05
+jun. 05, 2022 7:12:39 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-05
+jun. 05, 2022 7:13:04 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Christian Cedula: 1529, 2022-06-05
+jun. 06, 2022 12:29:04 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Didier Cedula: 1519, 2022-06-06
+jun. 06, 2022 12:29:06 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Didier Cedula: 1519, 2022-06-06
+jun. 06, 2022 12:29:31 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 12:29:43 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 12:30:17 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Christian Cedula: 1529, 2022-06-06
+jun. 06, 2022 12:30:21 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Christian Cedula: 1529, 2022-06-06
+jun. 06, 2022 12:32:05 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 12:32:06 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 12:32:06 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun 06, 2022 1:15:57 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 1:52:57 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 1:53:00 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 1:54:57 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 1:54:58 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 1:55:37 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 1:55:43 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 2:10:20 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-06
+jun. 06, 2022 2:10:30 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-06
+jun. 06, 2022 2:10:37 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-06
+jun. 06, 2022 2:10:47 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-06
+jun. 06, 2022 2:10:57 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-06
+jun. 06, 2022 2:11:02 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-06
+jun. 06, 2022 2:11:08 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-06
+jun. 06, 2022 2:11:13 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear vendedor, Vendedor creado Usuario: Tyler Cedula: 21p, 2022-06-06
+jun. 06, 2022 2:12:52 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 2:12:53 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 2:21:52 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 2:22:09 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 2:22:22 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 2:22:23 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 2:22:24 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jun. 06, 2022 2:22:27 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFO: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-06-06
+jul 13, 2022 2:00:12 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-07-13
+jul 13, 2022 2:00:13 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÃ“N: Eliminar me gusta, Me gusta eliminado Usuario: Kevin Cedula: 1006341989, 2022-07-13
+oct 11, 2022 10:57:13 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear producto, Producto creado Usuario: Kevin Cedula: 1006341989, 2022-10-11
+oct 11, 2022 10:57:23 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-10-11
+oct 11, 2022 10:57:26 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear me gusta, Me gusta creado Usuario: Kevin Cedula: 1006341989, 2022-10-11
+oct 11, 2022 10:57:49 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Crear comentario, Comentario creado Usuario: Kevin Cedula: 1006341989, 2022-10-11

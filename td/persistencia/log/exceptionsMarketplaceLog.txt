@@ -1,0 +1,52 @@
+may 03, 2022 1:49:32 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesión, NoSeleccionTerminosException Usuario: asas Cedula: No aplica, 2022-05-03
+may 03, 2022 1:49:34 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesión, NoSeleccionTerminosException Usuario: asas Cedula: No aplica, 2022-05-03
+may. 06, 2022 8:47:00 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Eliminar producto, ProductoNoSeleccionadoException Usuario: Kevin Cedula: 1006341989, 2022-05-06
+may. 09, 2022 9:32:48 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Eliminar producto, ProductoNoSeleccionadoException Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 9:32:56 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Eliminar producto, ProductoNoSeleccionadoException Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 9:33:30 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Eliminar producto, ProductoNoSeleccionadoException Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 9:33:51 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Eliminar producto, ProductoNoSeleccionadoException Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:42:25 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Agregar producto, ValorNoNumericException Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 1:42:29 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Agregar producto, ValorNoNumericException Usuario: Kevin Cedula: 1006341989, 2022-05-09
+may. 09, 2022 2:15:39 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Inicio de sesión, NoSeleccionTerminosException Usuario: kaka Cedula: No aplica, 2022-05-09
+may 11, 2022 12:50:53 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Agregar producto, ValorNoNumericException Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 11, 2022 1:05:25 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesión, NoSeleccionTerminosException Usuario: kaka Cedula: No aplica, 2022-05-11
+may 11, 2022 1:15:12 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Agregar producto, ValorNoNumericException Usuario: Kevin Cedula: 1006341989, 2022-05-11
+may 19, 2022 2:49:07 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesión, NoSeleccionTerminosException Usuario:  Cedula: No aplica, 2022-05-19
+jun 04, 2022 2:37:18 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Agregar vendedor, VendedorExistenteException Usuario: Tyler Cedula: 21p, -06-04
+jun 04, 2022 2:57:00 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesiï¿½n, NoSeleccionTerminosException Usuario:  Cedula: No aplica, -06-04
+jun 04, 2022 4:01:30 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesiï¿½n, NoSeleccionTerminosException Usuario:  Cedula: No aplica, -06-04
+jun 04, 2022 4:06:17 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesiï¿½n, NoSeleccionTerminosException Usuario:  Cedula: No aplica, -06-04
+jun 04, 2022 4:09:54 AM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesiï¿½n, NoSeleccionTerminosException Usuario:  Cedula: No aplica, -06-04
+jun 04, 2022 10:12:12 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Actualizar vendedor, VendedorNoSeleccionadoException Usuario: Tyler Cedula: 21p, -06-04
+jun. 05, 2022 1:33:52 A. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Inicio de sesiï¿½n, NoSeleccionTerminosException Usuario: kaka Cedula: No aplica, 2022-06-05
+jun 05, 2022 5:49:29 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Agregar vendedor, VendedorExistenteException Usuario: Tyler Cedula: 21p, 2022-06-05
+jun. 05, 2022 7:12:17 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Agregar vendedor, VendedorExistenteException Usuario: Tyler Cedula: 21p, 2022-06-05
+jun. 05, 2022 7:12:23 P. M. co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+SEVERE: Agregar vendedor, VendedorExistenteException Usuario: Tyler Cedula: 21p, 2022-06-05
+jul 13, 2022 1:59:37 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesionn, NoSeleccionTerminosException Usuario: admin Cedula: No aplica, 2022-07-13
+jul 19, 2022 1:23:49 PM co.uniquindio.edu.co.Marketplace.persistencia.ArchivoUtil guardarRegistroLog
+GRAVE: Inicio de sesionn, NoSeleccionTerminosException Usuario:  Cedula: No aplica, 2022-07-19
